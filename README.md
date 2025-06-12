@@ -22,4 +22,4 @@ A player can guess a letter only once. After they’ve guessed a letter, it will
 * JavaScript
 
 #### Guess the camping-related phrase before your fire burns out! I originally created this project for my front-end Techdegree, but I felt it needed more of my personal style.
-## See live demo: [Camping Capers Game](https://nicolepdev.github.io/camping-capers/)
+## See live demo: [Camping Capers Game](https://nicolepdotme.github.io/camping-capers/)
